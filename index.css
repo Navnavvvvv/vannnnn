@@ -1,0 +1,24 @@
+body{
+    font-family: "Times New Roman" , sans-serif;
+    background-image:download (1)jpg;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    text-emphasis: white;
+}
+h2{
+    color: white;
+    text-align: left;
+    text-emphasis-color: white;
+}
+#tr{
+    font-size: small;
+}
+#sub{
+    text-align: center;
+}
+.function{
+    overflow: hidden;
+}
